@@ -1,3 +1,8 @@
+from manim import *
+
+#config.media_width = "75%"
+#config.verbosity = "WARNING"
+
 import numpy as np
 from scipy import signal
 
